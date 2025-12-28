@@ -249,9 +249,6 @@ Potential improvements you can add:
 - [ ] Email alerts for budget overruns
 - [ ] Integration with banking APIs
 
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
