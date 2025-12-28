@@ -4,7 +4,7 @@ A machine learning-powered expense prediction system that analyzes your spending
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## 🎯 Features
 
